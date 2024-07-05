@@ -1,0 +1,8 @@
+fastqc fastq/Mock_RP1_Biotin_R1_001.fastq.gz
+fastqc fastq/Mock_RP1_Biotin_R2_001.fastq.gz
+fastqc fastq/Mock_RP2_Biotin_R1_001.fastq.gz
+fastqc fastq/Mock_RP2_Biotin_R2_001.fastq.gz
+fastqc fastq/RumpKD_RP1_Biotin_R1_001.fastq.gz
+fastqc fastq/RumpKD_RP1_Biotin_R2_001.fastq.gz
+fastqc fastq/RumpKD_RP2_Biotin_R1_001.fastq.gz
+fastqc fastq/RumpKD_RP2_Biotin_R2_001.fastq.gz
